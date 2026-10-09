@@ -29,5 +29,4 @@ License
 -------
 
 This work is released as open source under the Apache 2.0 license from The Khronos Group Inc., including a Khronos copyright.
-Created by Jason Sco TT Heise
-Owned by Elon Musk 
+Created by Jaso Heise
